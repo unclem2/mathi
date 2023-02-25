@@ -1,0 +1,61 @@
+{
+  "Cursor" : {
+    "rotateCursor" : false
+  },
+  "ComboColor" : {
+    "forceOverride" : true,
+    "colors" : [
+      "#5A6EF5"
+      ]
+  },
+  "Slider" : {
+    "sliderFollowComboColor" : false,
+    "sliderBorderFollowComboColor" : false,
+    "sliderBorderColor" : "#C8C8C8",
+    "sliderBorderWidth" : 5,
+    "sliderBodyColor" : "#000000", 
+    "sliderBodyWidth" : 60,
+    "sliderBodyBaseAlpha" : 0.8, 
+    "sliderHintEnable" : true,
+    "sliderHintColor" : "#8A8A8A",
+    "sliderHintAlpha" : 0.5,
+    "sliderHintWidth" : 4, 
+    "sliderHintShowMinLength" : 1
+  },
+  "Utils" : {
+    "comboTextScale" : 1,
+    "limitComboTextLength" : true, 
+    "disableKiai" : true 
+    }, 
+  "Layout" : {
+    "BackButton" : {
+     "h" : 115,
+     "scale" : 1,  
+     "w" : 274,
+     "scaleWhenHold" : false
+    },
+    "ModsButton" : {
+     "h" : 126,
+     "scale" : 1,
+     "w" : 103
+    },
+    "OptionsButton" : {
+     "h" : 126,
+     "scale" : 1,
+     "w" : 91
+    },
+    "RandomButton" : {
+     "h" : 126,
+     "scale" : 1,
+     "w" : 121
+    },
+    "useNewLayout" : true
+  },
+  "Color" : { 
+    "MenuItemDefaultColor" : "#FFFFFF",
+    "MenuItemDefaultTextColor" : "#A0A0A0",    
+    "MenuItemVersionsDefaultColor" : "#969696",  
+    "MenuItemVersionsSelectedColor" : "#323232",  
+    "MenuItemSelectedTextColor" : "#FFFFFF"
+  }
+}
